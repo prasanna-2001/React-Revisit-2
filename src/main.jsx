@@ -6,7 +6,7 @@ import Navbar from './Components/Navbar'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Navbar/>
+    {/* <Navbar/> */}
     <App />
   </React.StrictMode>
 )
